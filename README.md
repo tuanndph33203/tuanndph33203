@@ -9,7 +9,7 @@
 <li>🧐 Learning about <strong>design</strong>, <strong>frontend</strong>, and a bit of <strong>backend</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/tuanndph33203">Github</a>.</li>
 <li>📙 Check out my <a href="">resume</a>.</li>
-<li>🎉 Language: Tiếng Việt, English, 汉语。</li>
+<li>🌍 Languages: Tiếng Việt, English, 汉语。</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
