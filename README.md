@@ -1,6 +1,6 @@
 
 <h2>Hey 👋, I'm <a href="#">Tuna</a></h2>
-<p>I'm currently a student at <strong><a href=#">FPT Polytecnich Collge</a></strong> and developer at <strong><a href="#">WEXPRESS</a></strong> based in 🌁 Ha noi.</p>
+<p>I'm currently a student at <strong><a href=#">FPT Polytecnich Collge</a></strong> and developer at <strong><a href="#">Freelancer</a></strong> based in 🌁 Ha noi.</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
