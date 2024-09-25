@@ -3,7 +3,15 @@
 <p>I'm currently a student at <strong><a href=#">FPT Polytecnich Collge</a></strong> and developer at <strong><a href="#">VMMS</a></strong> based in 🌁 Ha noi.</p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/tuanndph33203">Tuna</a>.</li>
+<li>🧐 Learning about <strong>design</strong>, <strong>frontend</strong>, and a bit of <strong>backend</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/tuanndph33203">Github</a>.</li>
+<li>📙 Check out my <a href="">resume</a>.</li>
+<li>🎉 Language: Tiếng Việt, English, 汉语。</li>
+</ul>
+<h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next" width="25" height="25" />
@@ -20,12 +28,3 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <a href="https://github.com/tuanndph33203">Tuna</a>.</li>
-<li>🧐 Learning about <strong>design</strong>, <strong>frontend</strong>, and a bit of <strong>backend</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/tuanndph33203">Github</a>.</li>
-<li>📙 Check out my <a href="">resume</a>.</li>
-<li>🎉 Language: Tiếng Việt, English, 汉语。</li>
-</ul>
-<h2>🚀 Some Tools I Use</h2>
